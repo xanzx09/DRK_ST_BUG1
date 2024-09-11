@@ -36,8 +36,12 @@ global.anti92 = false //auto block +92
 global.autoswview = true //auto view status/story
 
 //menu type 
-
-global.typemenu = 'v3'
+//menu type 
+//v1 is image menu, 
+//v2 is link + image menu,
+//v3 is video menu,
+//v4 is call end menu
+global.typemenu = 'v2'
 
 //text bug
 global.xbugtex = {
