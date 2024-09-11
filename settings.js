@@ -40,7 +40,7 @@ global.autoswview = true //auto view status/story
 //v2 is link + image menu,
 //v3 is video menu,
 //v4 is call end menu
-global.typemenu = 'v4'
+global.typemenu = 'https://i.imgur.com/lSrNtYC.jpeg'
 
 //text bug
 global.xbugtex = {
