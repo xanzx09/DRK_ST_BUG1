@@ -36,11 +36,8 @@ global.anti92 = false //auto block +92
 global.autoswview = true //auto view status/story
 
 //menu type 
-//v1 is image menu, 
-//v2 is link + image menu,
-//v3 is video menu,
-//v4 is call end menu
-global.typemenu = 'v2'
+
+global.typemenu = 'v3'
 
 //text bug
 global.xbugtex = {
@@ -51,9 +48,9 @@ global.bimg = '//9j/4AAQSkZJRgABAQAAAQABAAD/4gIoSUNDX1BST0ZJTEUAAQEAAAIYAAAAAAQw
 //reply messages
 global.mess = {
     done: '𝗗𝗼𝗻𝗲 !',
-    prem: '𝗧𝗵𝗶𝘀 𝗳𝗲𝗮𝘁𝘂𝗿𝗲 𝗰𝗮𝗻 𝗯𝗲 𝘂𝘀𝗲𝗱 𝗯𝘆 𝗽𝗿𝗲𝗺𝗶𝘂𝗺 𝘂𝘀𝗲𝗿 𝗼𝗻𝗹𝘆',
-    admin: '𝗧𝗵𝗶𝘀 𝗳𝗲𝗮𝘁𝘂𝗿𝗲 𝗰𝗮𝗻 𝗯𝗲 𝘂𝘀𝗲𝗱 𝗯𝘆 𝗮𝗱𝗺𝗶𝗻 𝗼𝗻𝗹𝘆',
-    botAdmin: '𝗧𝗵𝗶𝘀 𝗳𝗲𝗮𝘁𝘂𝗿𝗲 𝗰𝗮𝗻 𝗼𝗻𝗹𝘆 𝗯𝗲 𝘂𝘀𝗲𝗱 𝘄𝗵𝗲𝗻 𝘁𝗵𝗲 𝗯𝗼𝘁 𝗶𝘀 𝗮 𝗴𝗿𝗼𝘂𝗽 𝗮𝗱𝗺𝗶𝗻',
+    prem: 'This feature is for premium users only. Sorry peasants!',
+    admin: "This feature is exclusively for admins. If you're not an admin, tough luck – go cry about it somewhere!",
+    botAdmin: '𝗧𝗵𝗶𝘀 𝗳𝗲𝗮𝘁𝘂𝗿𝗲  𝘂𝘀𝗲𝗱 𝘄𝗵𝗲𝗻 𝘁𝗵𝗲 𝗯𝗼𝘁 𝗶𝘀 𝗮 𝗴𝗿𝗼𝘂𝗽 𝗮𝗱𝗺𝗶𝗻',
     owner: '𝗧𝗵𝗶𝘀 𝗳𝗲𝗮𝘁𝘂𝗿𝗲 𝗰𝗮𝗻 𝗯𝗲 𝘂𝘀𝗲𝗱 𝗯𝘆 𝗼𝘄𝗻𝗲𝗿 𝗼𝗻𝗹𝘆',
     group: '𝗧𝗵𝗶𝘀 𝗳𝗲𝗮𝘁𝘂𝗿𝗲 𝗶𝘀 𝗼𝗻𝗹𝘆 𝗳𝗼𝗿 𝗴𝗿𝗼𝘂𝗽𝘀',
     private: '𝗧𝗵𝗶𝘀 𝗳𝗲𝗮𝘁𝘂𝗿𝗲 𝗶𝘀 𝗼𝗻𝗹𝘆 𝗳𝗼𝗿 𝗽𝗿𝗶𝘃𝗮𝘁𝗲 𝗰𝗵𝗮𝘁𝘀',
