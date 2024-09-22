@@ -8,7 +8,7 @@ global.ytname = "DRK_ST_Tech"
 global.socialm = "GitHub: DRK-S-TEN"
 global.location = "America/Port-au-Prince"
 
-global.ownernumber = '50931461936'  //creator number
+global.ownernumber = '50948181169'  //creator number
 global.ownername = '𝙎-𝙏𝞢𝞜' //owner name
 global.botname = 'DRK_ST_BUG' //name of the bot
 
@@ -41,7 +41,7 @@ global.autoswview = true //auto view status/story
 //v2 is link + image menu,
 //v3 is video menu,
 //v4 is call end menu
-global.typemenu = 'v2'
+global.typemenu = 'v1'
 
 //text bug
 global.xbugtex = {
