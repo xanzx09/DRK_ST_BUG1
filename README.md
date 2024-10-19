@@ -62,7 +62,7 @@ I am not responsible for any damage caused by this bot. Use this bot at your own
 ## Developer 💀
 
 <a href="https://github.com/DRK-S-TEN">
-  <img src="https://github.com/DRK-S-TEN.png" width="200" height="200" alt="DRK-S-TEN"/>
+  <img src="https://github.com/Bot-hostin.png" width="200" height="200" alt="DRK-S-TEN"/>
 </a>
 <p align="center"><strong>DRK-S-TEN</strong></p>
 
